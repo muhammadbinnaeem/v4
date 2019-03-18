@@ -1,10 +1,10 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'Jan - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+date: '2016-10-10'
+title: 'Software Engineer'
+company: 'Nanosoft Technologies'
+location: 'karachi, Pakistan'
+range: 'Oct 2016 - Oct 2018'
+url: 'http://nanosofttek.com/'
 ---
 
 - Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern

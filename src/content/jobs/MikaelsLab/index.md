@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2018-11-05'
+title: 'Senior Software Engineer'
+company: 'Mikaels Lab'
+location: 'karachi, Pakistan'
+range: 'Nov 2018 - Present'
+url: 'https://www.mikaels.com/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects

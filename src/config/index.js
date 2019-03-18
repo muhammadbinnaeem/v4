@@ -1,37 +1,37 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Web Developer',
+  siteTitle: 'Muhammad Bin Naeem | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a web developer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Muhammad Bin Naeem is a web developer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Muhammad Bin Naeem, Muhammad,Bin, Naeem, mbinnaeem, software engineer, front-end engineer, web developer, javascript, karachi, Pakistan, react, react-native, cordova, php, docker, graphql',
+  siteUrl: 'https://muhammadbinnaeem.github.io',
   siteLanguage: 'en_US',
 
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  // googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
 
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
+  name: 'Muhammad Bin Naeem',
+  location: 'karachi, Pakistan',
+  email: 'mbinnaeem20@gmail.com',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/bchiang7/',
+      url: 'https://github.com/muhammadbinnaeem/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7/',
+      url: 'https://www.linkedin.com/in/muhammadbinnaeem/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7/',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/bchiang7/',
+    // },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7/',
+      url: 'https://www.instagram.com/mbinnaeem/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/mbinnaeem',
     },
   ],
 
@@ -54,8 +54,8 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@bchiang7',
-  googleAnalyticsID: 'UA-45666519-2',
+  twitterHandle: '@mbinnaeem',
+  // googleAnalyticsID: 'UA-45666519-2',
 
   headerHeight: 100,
 

@@ -62,33 +62,44 @@ class Loader extends Component {
     });
 
     loader
-      .add({
-        targets: '#logo path',
-        delay: 500,
-        duration: 2000,
-        easing: 'easeInOutQuart',
-        strokeDashoffset: [anime.setDashoffset, 0],
-      })
-      .add({
-        targets: '#logo #B',
-        duration: 800,
-        easing: 'easeInOutQuart',
-        opacity: 1,
-      })
+      // .add({
+      //   targets: '#logo path',
+      //   delay: 500,
+      //   duration: 2000,
+      //   easing: 'easeInOutQuart',
+      //   strokeDashoffset: [anime.setDashoffset, 0],
+      // })
+      // .add({
+      //   targets: '#logo #B',
+      //   duration: 800,
+      //   easing: 'easeInOutQuart',
+      //   opacity: 1,
+      // })
+      // .add({
+      //   targets: '#logo',
+      //   delay: 700,
+      //   duration: 300,
+      //   easing: 'easeInOutQuart',
+      //   opacity: 0,
+      //   scale: 0.1,
+      // })
       .add({
         targets: '#logo',
-        delay: 700,
-        duration: 300,
-        easing: 'easeInOutQuart',
-        opacity: 0,
-        scale: 0.1,
-      })
-      .add({
-        targets: '.loader',
-        duration: 200,
-        easing: 'easeInOutQuart',
-        opacity: 0,
-        zIndex: -1,
+        translateX: {
+          value: '*=2.5', // 100px * 2.5 = '250px'
+          duration: 1000,
+        },
+        width: {
+          value: '-=20px', // 28 - 20 = '8px'
+          duration: 1800,
+          easing: 'easeInOutSine',
+        },
+        rotate: {
+          value: '+=2turn', // 0 * 2 = '2turn'
+          duration: 1800,
+          easing: 'easeInOutSine',
+        },
+        direction: 'alternate',
       });
   }
 

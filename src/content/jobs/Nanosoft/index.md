@@ -1,5 +1,5 @@
 ---
-date: '2016-10-10'
+date: '2018-10-01'
 title: 'Software Engineer'
 company: 'Nanosoft Technologies'
 location: 'karachi, Pakistan'
@@ -7,6 +7,10 @@ range: 'Oct 2016 - Oct 2018'
 url: 'http://nanosofttek.com/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Developed mobile applications using React Native, Ionic 1.x, PhoneGap & Cordova.
+- Developed web applications using Laravel , Codeigniter & Yii framework with mySQL and mongoDB.
+- Developed rest APIs.
+- Project estimations.
+- Developed compatible user interface functionality using Angular JS, React, jQuery & other libraries.
+- Tested API’s with soap UI 5.3/ Postman.
+- Created instances of demo server with required version of services using docker.
